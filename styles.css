@@ -189,6 +189,7 @@ footer input{
     border: none;
     outline: none;
     padding: 0 16px;
+    font-size: 16px;
 }
 
 footer input::placeholder{
