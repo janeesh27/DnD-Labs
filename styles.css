@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    padding: 12px 10px;
+}
+
+.nav li{
+    list-style: none;
+    padding-top: 13px;
+
+}
+
